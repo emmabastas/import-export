@@ -2,7 +2,7 @@
   "name": "import-export",
   "main": "./lib/import-export",
   "version": "0.2.0",
-  "description": "Import and export settings from attom",
+  "description": "Import and export settings from atom",
   "keywords": [
     "settings",
     "export",
