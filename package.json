@@ -10,7 +10,7 @@
       "import-export:export"
     ]
   },
-  "repository": "https://github.com/atom/import-export",
+  "repository": "https://github.com/hugobastas/import-export",
   "license": "MIT",
   "engines": {
     "atom": "~2.x"
