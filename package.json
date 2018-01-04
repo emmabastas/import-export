@@ -1,9 +1,14 @@
 {
   "name": "import-export",
   "main": "./lib/import-export",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Import and export settings from attom",
-  "keywords": ["settings", "export", "import", "system agnostic"],
+  "keywords": [
+    "settings",
+    "export",
+    "import",
+    "system agnostic"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "import-export:import",
