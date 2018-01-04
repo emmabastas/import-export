@@ -11,7 +11,7 @@
     ]
   },
   "repository": "https://github.com/hugobastas/import-export",
-  "license": "MIT",
+  "license": "GPLv3",
   "engines": {
     "atom": "~2.x"
   },
