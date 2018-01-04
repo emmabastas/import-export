@@ -19,5 +19,5 @@
     "fs-extra": "~5.x",
     "jsonfile": "~4.x",
     "compare-versions": "~3.x"
-  },
+  }
 }
