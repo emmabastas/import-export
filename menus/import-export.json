@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Import Export",
+          "submenu": [
+            {
+              "label": "Import settings",
+              "command": "import-export:import"
+            },
+            {
+              "label": "Export settings",
+              "command": "import-export:export"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

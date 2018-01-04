@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-i": "import-export:import",
+    "ctrl-alt-e": "import-export:export"
+  }
+}
