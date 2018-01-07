@@ -18,11 +18,11 @@
   "repository": "https://github.com/hugobastas/import-export",
   "license": "GPLv3",
   "engines": {
-    "atom": "~2.x"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "fs-extra": "~5.x",
-    "jsonfile": "~4.x",
-    "compare-versions": "~3.x"
+    "fs-extra": "^5.0.0",
+    "jsonfile": "^4.0.0",
+    "compare-versions": "^3.0.0"
   }
 }
